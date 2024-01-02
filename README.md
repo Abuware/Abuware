@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Coding to get better. 
+### Coding to get better. 
 
 <!--
 **Abuware/Abuware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
